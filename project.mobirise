@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-08-24_0200",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -53,7 +53,7 @@
         "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i"
       }
     ],
-    "uniqCompNum": 31,
+    "uniqCompNum": 38,
     "versionPublish": "5.0.29",
     "favicon": false,
     "mbrsiteDomain": "5oi7ejpfwx",
@@ -670,7 +670,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"content9\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" name=\"iconColor\" title=\"Color\" value=\"#8caff0\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"counter-container col-md-12 col-lg-{{textWidth}}\">\n                <h4 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with the Mobirise app.\n                </h4>\n                <div class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                    <ol>\n                        <li>Continuous-time dynamic decision making with costly information (with Christoph Knochenhauer and Alexander Merkel)<br>Submitted (2024) [<a href=\"https://arxiv.org/html/2408.09693\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>Entropy annealing for policy mirror descent in continuous time and space (with Deven Sethi and David Siska)<br>Submitted (2024) [<a href=\"https://arxiv.org/abs/2405.20250\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>ε-policy gradient for online pricing (with Tanut Treetanthiploet and Lukasz Szpruch)<br>Submitted (2024) [<a href=\"https://arxiv.org/abs/2405.03624\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>An α-potential game framework for N-player games (with Xin Guo and Xinyu Li) <br>Submitted (2024) [<a href=\"https://arxiv.org/abs/2403.16962\" class=\"text-primary\" target=\"_blank\">Preprint</a>]<br></li><li>Mirror descent for stochastic control problems with measure-valued controls (with Bekzhan Kerimkulov, David Siska and Lukasz Szpruch)<br>Submitted (2024) [<a href=\"http://arxiv.org/abs/2401.01198\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>A Fisher-Rao gradient flow for entropy-regularised Markov decision processes in Polish spaces (with Bekzhan Kerimkulov, James-Michael Leahy, David Siska and Lukasz Szpruch)<br>Submitted (2023) [<a href=\"http://arxiv.org/abs/2310.02951\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>Towards an analytical framework for dynamic potential games (with Xin Guo)<br>Revised and resubmitted (2023) [<a href=\"http://arxiv.org/abs/2310.02259\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>An offline learning approach to propagator models (with Eyal Neuman and Wolfgang Stockinger)<br>Submitted (2023) [<a href=\"https://arxiv.org/abs/2309.02994\" class=\"text-primary\" target=\"_blank\">Preprint</a>] [<a href=\"https://colab.research.google.com/drive/1xZsfKmh_Qo5EvkQITxLVBZaeq0zmEVsx?usp=sharing\" class=\"text-primary\" target=\"_blank\">Colab Notebook</a>]<br></li><li>Insurance pricing on price comparison websites via reinforcement learning (with Tanut Treetanthiploet, Lukasz Szpruch, Isaac Bowers-Barnard, Henrietta Ridley, James Hickey and Chris Pearce) (2023) [<a href=\"https://arxiv.org/abs/2308.06935\" class=\"text-primary\">Preprint</a>]</li><li>Statistical learning with sublinear regret of propagator models (with Eyal Neuman)<br>Revised and resubmitted&nbsp; (2023) [<a href=\"https://arxiv.org/abs/2301.05157\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>Path regularity of coupled McKean-Vlasov FBSDEs (with Christoph Reisinger and Wolfgang Stockinger) (2020) [<a href=\"https://arxiv.org/abs/2011.06664\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>Optimal regularity of extended mean field controls and their piecewise constant approximation (with Christoph Reisinger and Wolfgang Stockinger) (2020) [<a href=\"https://arxiv.org/abs/2009.08175v2\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li>\n                    </ol>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content9\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" name=\"iconColor\" title=\"Color\" value=\"#8caff0\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"counter-container col-md-12 col-lg-{{textWidth}}\">\n                <h4 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with the Mobirise app.\n                </h4>\n                <div class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                    <ol>\n                        <li>Pricing and hedging of decentralised lending contracts (with Lukasz Szpruch, Marc Sabaté Vidales, and Tanut Treetanthiploet)<br>Submitted (2024) [<a href=\"https://arxiv.org/abs/2409.04233\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>Continuous-time dynamic decision making with costly information (with Christoph Knochenhauer and Alexander Merkel)<br>Submitted (2024) [<a href=\"https://arxiv.org/html/2408.09693\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>Entropy annealing for policy mirror descent in continuous time and space (with Deven Sethi and David Siska)<br>Submitted (2024) [<a href=\"https://arxiv.org/abs/2405.20250\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>ε-policy gradient for online pricing (with Tanut Treetanthiploet and Lukasz Szpruch)<br>Submitted (2024) [<a href=\"https://arxiv.org/abs/2405.03624\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>An α-potential game framework for N-player games (with Xin Guo and Xinyu Li) <br>Submitted (2024) [<a href=\"https://arxiv.org/abs/2403.16962\" class=\"text-primary\" target=\"_blank\">Preprint</a>]<br></li><li>Mirror descent for stochastic control problems with measure-valued controls (with Bekzhan Kerimkulov, David Siska and Lukasz Szpruch)<br>Submitted (2024) [<a href=\"http://arxiv.org/abs/2401.01198\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>A Fisher-Rao gradient flow for entropy-regularised Markov decision processes in Polish spaces (with Bekzhan Kerimkulov, James-Michael Leahy, David Siska and Lukasz Szpruch)<br>Revision at <i>Foundations of Computational Mathematics</i> (2023) [<a href=\"http://arxiv.org/abs/2310.02951\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1.2rem; background-color: rgb(255, 255, 255);\">Preprint</a><span style=\"font-size: 1.2rem;\">]</span></li><li>Towards an analytical framework for dynamic potential games (with Xin Guo)<br>Revision at <i>SIAM Journal on Control and Optimization</i> (2023) [<a href=\"http://arxiv.org/abs/2310.02259\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1.2rem; background-color: rgb(255, 255, 255);\">Preprint</a><span style=\"font-size: 1.2rem;\">]</span></li><li>An offline learning approach to propagator models (with Eyal Neuman and Wolfgang Stockinger)<br>Submitted (2023) [<a href=\"https://arxiv.org/abs/2309.02994\" class=\"text-primary\" target=\"_blank\">Preprint</a>] [<a href=\"https://colab.research.google.com/drive/1xZsfKmh_Qo5EvkQITxLVBZaeq0zmEVsx?usp=sharing\" class=\"text-primary\" target=\"_blank\">Colab Notebook</a>]<br></li><li><span style=\"font-size: 1.2rem;\">Statistical learning with sublinear regret of propagator models (with Eyal Neuman)<br></span>Revision at <i style=\"font-size: 1.2rem;\">The Annals of Applied Probability</i><span style=\"font-size: 1.2rem;\">&nbsp; (2023) [</span><a href=\"https://arxiv.org/abs/2301.05157\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1.2rem; background-color: rgb(255, 255, 255);\">Preprint</a><span style=\"font-size: 1.2rem;\">]</span></li><li><span style=\"font-size: 1.2rem;\">Optimal regularity of extended mean field controls and their piecewise constant approximation (with Christoph Reisinger and Wolfgang Stockinger) (2020) [</span><a href=\"https://arxiv.org/abs/2009.08175v2\" class=\"text-primary\" target=\"_blank\" style=\"font-size: 1.2rem; background-color: rgb(255, 255, 255);\">Preprint</a><span style=\"font-size: 1.2rem;\">]</span><br></li>\n                    </ol>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content9-o",
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
@@ -697,7 +697,7 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"content6\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        \n        <input type=\"color\" name=\"lineColor\" title=\"Color\" value=\"#ffffff\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <hr class=\"line\">\n                <p class=\"mbr-text align-center mbr-fonts-style my-4\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Refereed journal publications</p>\n                <hr class=\"line\">\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content6\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        \n        <input type=\"color\" name=\"lineColor\" title=\"Color\" value=\"#ffffff\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <hr class=\"line\">\n                <p class=\"mbr-text align-center mbr-fonts-style my-4\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Journal publications</p>\n                <hr class=\"line\">\n            </div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content6-l",
           "_isUserblock": true,
           "_sourceTheme": "mobirise5",
@@ -1184,7 +1184,7 @@
             }
           },
           "_name": "content6",
-          "_customHTML": "<section class=\"content6\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        \n        <input type=\"color\" name=\"lineColor\" title=\"Color\" value=\"#ffffff\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <hr class=\"line\">\n                <p class=\"mbr-text align-center mbr-fonts-style my-4\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Refereed conference publications</p>\n                <hr class=\"line\">\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content6\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        \n        <input type=\"color\" name=\"lineColor\" title=\"Color\" value=\"#ffffff\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <hr class=\"line\">\n                <p class=\"mbr-text align-center mbr-fonts-style my-4\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Conference publications</p>\n                <hr class=\"line\">\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "sH20qGypGw",
           "_anchor": "content6-j",
           "_protectedParams": [],
@@ -1249,6 +1249,87 @@
           "_styles": {
             "padding-top": "(@paddingTop * 1rem)",
             "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".mbr-text": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"content6\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        \n        <input type=\"color\" name=\"lineColor\" title=\"Color\" value=\"#ffffff\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <hr class=\"line\">\n                <p class=\"mbr-text align-center mbr-fonts-style my-4\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Technical Reports<br></p>\n                <hr class=\"line\">\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-10",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise5",
+          "_cid": "ur1zVlOWZE",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".counter-container": {
+              "ol": {
+                "margin-bottom": "0",
+                "li": {
+                  "margin-bottom": "1rem"
+                },
+                "& when (@stylizedCounters)": {
+                  "counter-reset": "myCounter",
+                  "li": {
+                    "list-style": "none",
+                    "padding-left": "1rem",
+                    "position": "relative",
+                    "&:before": {
+                      "position": "absolute",
+                      "left": "-40px",
+                      "margin-top": "5px",
+                      "counter-increment": "myCounter",
+                      "content": "counter(myCounter)",
+                      "line-height": "40px",
+                      "transition": "all .2s",
+                      "color": "contrast(@iconColor)",
+                      "background": "@iconColor",
+                      "width": "40px",
+                      "height": "40px",
+                      "border-radius": "50%",
+                      "display": "flex",
+                      "align-items": "center",
+                      "justify-content": "center",
+                      "& when (@squareCounters)": {
+                        "border-radius": "0"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          },
+          "_name": "content9",
+          "_customHTML": "<section class=\"content9\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked>\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"1\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        <header>Show/Hide</header>\n        <input type=\"checkbox\" title=\"Title\" name=\"showTitle\">\n        <input type=\"checkbox\" title=\"Stylized Counters\" name=\"stylizedCounters\" checked>\n        <input type=\"checkbox\" title=\"Square Counters\" name=\"squareCounters\" condition=\"stylizedCounters\">\n        <input type=\"color\" name=\"iconColor\" title=\"Color\" value=\"#8caff0\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"counter-container col-md-12 col-lg-{{textWidth}}\">\n                <h4 class=\"mbr-section-title mbr-fonts-style mb-4\" mbr-if=\"showTitle\" data-app-selector=\".mbr-section-title\" mbr-theme-style=\"display-5\">\n                    Shape your future web project with the Mobirise app.\n                </h4>\n                <div class=\"mbr-text mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                    <ol>\n                        <li>Insurance pricing on price comparison websites via reinforcement learning (with Tanut Treetanthiploet, Lukasz Szpruch, Isaac Bowers-Barnard, Henrietta Ridley, James Hickey and Chris Pearce) (2023) [<a href=\"https://arxiv.org/abs/2308.06935\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li><li>Path regularity of coupled McKean-Vlasov FBSDEs (with Christoph Reisinger and Wolfgang Stockinger) (2020) [<a href=\"https://arxiv.org/abs/2011.06664\" class=\"text-primary\" target=\"_blank\">Preprint</a>]</li>\n                    </ol>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content9-11",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise5",
+          "_cid": "ur1AZza9Al",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
             "& when (@bg-type = 'image')": {
               "background-image": "url(@bg-value)"
             },
@@ -1296,6 +1377,33 @@
           "_protectedParams": [],
           "_global": true,
           "_once": "footers",
+          "_params": {}
+        },
+        {
+          "alias": false,
+          "_styles": {
+            "padding-top": "(@paddingTop * 1rem)",
+            "padding-bottom": "(@paddingBottom * 1rem)",
+            "background-color": "@bgColor",
+            ".line": {
+              "background-color": "@lineColor",
+              "align": "center",
+              "height": "2px",
+              "margin": "0 auto"
+            },
+            ".mbr-text": {
+              "text-align": "left"
+            }
+          },
+          "_name": "content6",
+          "_customHTML": "<section class=\"content6\" group=\"Content\">\n    <mbr-parameters>\n        <header>Size</header>\n        <input type=\"checkbox\" title=\"Full Width\" name=\"fullWidth\" checked=\"\">\n        <input type=\"range\" inline=\"\" title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline=\"\" title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"10\" step=\"1\" value=\"0\">\n        <input type=\"range\" name=\"textWidth\" title=\"Width\" min=\"4\" max=\"12\" value=\"11\" step=\"1\">\n        \n        <input type=\"color\" name=\"lineColor\" title=\"Color\" value=\"#ffffff\">\n        <header>Background</header>\n        <input type=\"color\" title=\"Color\" name=\"bgColor\" value=\"#ffffff\">\n    </mbr-parameters>\n    <div mbr-class=\"{'container': !fullWidth, 'container-fluid': fullWidth}\">\n        <div class=\"row justify-content-center\">\n            <div class=\"col-md-12 col-lg-{{textWidth}}\">\n                <hr class=\"line\">\n                <p class=\"mbr-text align-center mbr-fonts-style my-4\" mbr-theme-style=\"display-5\" data-app-selector=\".mbr-text\">Refereed conference publications</p>\n                <hr class=\"line\">\n            </div>\n        </div>\n    </div>\n</section>",
+          "_anchor": "content6-z",
+          "_isUserblock": true,
+          "_sourceTheme": "mobirise5",
+          "_cid": "ur1zUOwlvV",
+          "_protectedParams": [],
+          "_global": false,
+          "_once": false,
           "_params": {}
         }
       ]
